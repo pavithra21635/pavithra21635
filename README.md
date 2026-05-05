@@ -1,19 +1,24 @@
 <div align="center">
 
-# Pavithra Kotugala
-### Intern Software Engineer | BSC(Hons)Computing
-  
-<!-- Optional: Add an image URL here if you design a banner like in image_1c511e.png -->
-  
-✨ **Open to Internship / Associate / Software Engineer Roles** ✨
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:008080,100:0d1117&height=240&section=header&text=Pavithra%20Kotugala&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Intern%20Software%20Engineer%20%7C%20BSc%20(Hons)%20Computing&descAlignY=62&descColor=a5f3e4&animation=fadeIn&fontAlign=50" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavithra-kotugala-7b15481a2)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithrakotugala@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=pavithra21635&color=008080&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=008080&center=true&vCenter=true&width=620&lines=.NET+6+Clean+Architecture+Expert;Full-Stack+Web+%26+Mobile+Developer;Middleware+%26+SAP+Integration+Engineer;✦+Seeking+Associate+%2F+Software+Engineer+Roles" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="http://www.linkedin.com/in/pavithra-kotugala-7b15481a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:pavithrakotugala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<img src="https://komarev.com/ghpvc/?username=pavithra21635&color=008080&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
+
 
 ### 🛠️ Tech Stack & Skills
 - **Backend :** C#, .NET Core, ASP.NET Core MVC, Node.js, WPF, PHP
@@ -24,5 +29,61 @@
 
 
 ---
+---
 
+## `> featured_projects/`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ SapSync Middleware
+*SAP Integration System*[cite: 3]
+
+Automated data transfer between SAP and external DBs using **.NET Core MVC** & **Entity Framework**[cite: 3]. Features real-time logging and manual re-trigger capabilities[cite: 3].
+
+![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-FF4B11?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚆 RailPulse
+*Real-Time Transit Monitor*[cite: 3]
+
+Transit tracking system monitoring Sri Lankan trains at 1-min intervals[cite: 3]. Built with **Node.js** backend and an interactive **React Map** frontend[cite: 3].
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 NexusPlan
+*Enterprise Task Management*[cite: 3]
+
+Taskly productivity suite with drag-and-drop task boards and priority dashboards[cite: 3]. Built using **.NET Core** and **Clean Architecture**[cite: 3].
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 LushLogix
+*Resort Management Platform*[cite: 3]
+
+Comprehensive desktop system for guest reservations and resort operations[cite: 3]. Implemented using **WPF** and **MVVM** pattern[cite: 3].
+
+![WPF](https://img.shields.io/badge/-WPF-512BD4?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM-grey?style=flat-square)
+
+</td>
+</tr>
+</table>
