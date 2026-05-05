@@ -36,7 +36,7 @@
 ### 🛰️ SapSync Middleware
 *SAP Integration System*[cite: 3]
 
-Automated data transfer between SAP and external DBs using **.NET Core MVC** & **Entity Framework**[cite: 3]. Features real-time logging and manual re-trigger capabilities[cite: 3].
+Automated data transfer between SAP and external DBs using **.NET Core MVC** & **Entity Framework**. Features real-time logging and manual re-trigger capabilities[cite: 3].
 
 ![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-FF4B11?style=flat-square)
@@ -46,9 +46,9 @@ Automated data transfer between SAP and external DBs using **.NET Core MVC** & *
 <td width="50%" valign="top">
 
 ### 🚆 RailPulse
-*Real-Time Transit Monitor*[cite: 3]
+*Real-Time Transit Monitor*
 
-Transit tracking system monitoring Sri Lankan trains at 1-min intervals[cite: 3]. Built with **Node.js** backend and an interactive **React Map** frontend[cite: 3].
+Transit tracking system monitoring Sri Lankan trains at 1-min intervals. Built with **Node.js** backend and an interactive **React Map** frontend.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -60,9 +60,9 @@ Transit tracking system monitoring Sri Lankan trains at 1-min intervals[cite: 3]
 <td width="50%" valign="top">
 
 ### 📅 NexusPlan
-*Enterprise Task Management*[cite: 3]
+*Enterprise Task Management*
 
-Taskly productivity suite with drag-and-drop task boards and priority dashboards[cite: 3]. Built using **.NET Core** and **Clean Architecture**[cite: 3].
+Taskly productivity suite with drag-and-drop task boards and priority dashboards. Built using **.NET Core** and **Clean Architecture**.
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?style=flat-square)
@@ -72,9 +72,9 @@ Taskly productivity suite with drag-and-drop task boards and priority dashboards
 <td width="50%" valign="top">
 
 ### 🏨 LushLogix
-*Resort Management Platform*[cite: 3]
+*Resort Management Platform*
 
-Comprehensive desktop system for guest reservations and resort operations[cite: 3]. Implemented using **WPF** and **MVVM** pattern[cite: 3].
+Comprehensive desktop system for guest reservations and resort operations. Implemented using **WPF** and **MVVM** pattern.
 
 ![WPF](https://img.shields.io/badge/-WPF-512BD4?style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
