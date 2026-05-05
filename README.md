@@ -5,7 +5,7 @@
   
 <!-- Optional: Add an image URL here if you design a banner like in image_1c511e.png -->
   
-✨ **Open to Internship / Associate Roles** ✨
+✨ **Open to Internship / Associate / Software Engineer Roles** ✨
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pavithra-kotugala-7b15481a2)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithrakotugala@gmail.com)
