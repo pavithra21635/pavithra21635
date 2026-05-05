@@ -3,10 +3,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:008080,100:0d1117&height=240&section=header&text=Pavithra%20Kotugala&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Intern%20Software%20Engineer%20%7C%20BSc%20(Hons)%20Computing&descAlignY=62&descColor=a5f3e4&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=008080&center=true&vCenter=true&width=620&lines=.NET+6+Clean+Architecture+Expert;Full-Stack+Web+%26+Mobile+Developer;Middleware+%26+SAP+Integration+Engineer;✦+Seeking+Associate+%2F+Software+Engineer+Roles" />
-</a>
 
 <br/>
 
