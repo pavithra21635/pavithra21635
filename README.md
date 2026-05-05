@@ -34,9 +34,9 @@
 <td width="50%" valign="top">
 
 ### 🛰️ SapSync Middleware
-*SAP Integration System*[cite: 3]
+*SAP Integration System*
 
-Automated data transfer between SAP and external DBs using **.NET Core MVC** & **Entity Framework**. Features real-time logging and manual re-trigger capabilities[cite: 3].
+Automated data transfer between SAP and external DBs using **.NET Core MVC** & **Entity Framework**. Features real-time logging and manual re-trigger capabilities.
 
 ![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-FF4B11?style=flat-square)
